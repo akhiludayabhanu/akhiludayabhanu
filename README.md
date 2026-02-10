@@ -8,7 +8,7 @@
 I am a **Data Engineer** with **5 years of experience** specializing in the **Azure Ecosystem**. I bridge the gap between complex raw data and actionable business insights by building scalable, automated pipelines.
 
 - 🔭 **Current Focus:** Scaling data ingestion using **Azure Databricks**.
-- 🛠️ **Expertise:** ETL/ELT, Lakehouse Architecture, and Data Quality.
+- 🛠️ **Expertise:** ETL/ELT, Lakehouse Architecture, and Data Quality, Azure.
 - 🤝 **Collaborations:** Open to Data Engineering projects.
 
 ---
